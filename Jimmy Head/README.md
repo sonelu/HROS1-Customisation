@@ -12,11 +12,13 @@ The characteristics of the customisation:
 - the top part of the head has holes for 2 cameras, support for 2 40mm speakers and 2 microphones (from the cameras) as well as support for a Raspberry Pi or ODROID-XU4
 - the two speakers are fixed in position with 2 speaker Caps
 
-Some of the fixing uses heat serts (M2 and M3). I strongly recommend you to get hold of some these bad bous if you're really into 3D printing.
+Some of the fixing uses heat serts (M2 and M3). I strongly recommend you to get hold of some these bad boys if you're really into 3D printing.
 
 The cameras that is use are: Vantage WebCam 300 (http://www.amazon.co.uk/gp/product/B004VJ322E)
 
 The speakers are 40mm x 5mm and are rated 3W at 4ohm.
+
+My particular design is with Raspberry Pi and a custom HAT that includes the Adafruit 2x2.8W amplifier (http://www.adafruit.com/products/1552), a Murata 5V/3A regulator and Molex connectors.
 
 I have included FreeCad files (in case you want to modify them) as well as STEP and STL exports.
 
