@@ -22,4 +22,4 @@ My particular design is with Raspberry Pi and a custom HAT that includes the Ada
 
 I have included FreeCad files (in case you want to modify them) as well as STEP and STL exports.
 
-Assembly instruction to follow shortly.
+Assembly instruction included.
